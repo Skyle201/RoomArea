@@ -20,6 +20,7 @@ namespace RoomArea
             var doc = uiDoc.Document;
             var calculateSideAreaService = new CalculateSideAreaService(doc, uiDoc);
             return calculateSideAreaService.CalculateAndSetParameter();
+            //насрал//насрал//насрал//насрал//насрал
         }
 
 
